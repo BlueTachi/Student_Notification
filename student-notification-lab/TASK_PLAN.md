@@ -31,7 +31,7 @@ Final team review of findings                 All                           06/0
 
 
  
- *Goals for Execution 
+ * Goals for Execution 
   - Ensure 'notification-service' runs correctly
   - verify that '/status' and '/send- notification' endpoints responds as expected.
   - Identify and document any bugs or missing features.
