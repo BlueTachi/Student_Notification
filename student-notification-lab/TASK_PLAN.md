@@ -5,7 +5,7 @@ Outline tasks, timeline, and responsibilities .
 * Team : Thando , Nhlanhla, Thandazo
 
 
-* Task list andd responsibilities 
+* Task list & responsibilities 
 
 Tasks :                                       Assugned TO   :              Estimated Time :
 
