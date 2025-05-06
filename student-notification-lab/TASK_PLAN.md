@@ -28,20 +28,24 @@ Final team review of findings                 All                           06/0
   - Test API endpoint with invalid HTTP methods (e.g., GET on POST routes)
   - Document expected vs. actual responses for API testing
   - Clean up and rebuild container to verify stability 
+
+
  
-*Goals for Execution 
-- Ensure 'notification-service' runs correctly
-- verify that '/status' and '/send- notification' endpoints responds as expected.
-- Identify and document any bugs or missing features.
-- submit clean and clear document with testing evidence.
+ *Goals for Execution 
+  - Ensure 'notification-service' runs correctly
+  - verify that '/status' and '/send- notification' endpoints responds as expected.
+  - Identify and document any bugs or missing features.
+  - submit clean and clear document with testing evidence.
+
 
 * Tools to be Used
   - Visual Studio code (with docker extension)
   - Docker & Docker Compose
   - Postman and Curl for API testing
   - Github for Collaboration
- 
-  * Notes
+
+
+ * Notes
     - Prioritize testing the system via Docker to avoid local port issues.
     - Each member should back up finding in 'problem-report.md' before merging.
     - Stick to time slots as best as possible to stay within the 2-hour window.
