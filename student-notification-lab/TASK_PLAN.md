@@ -7,7 +7,7 @@ Outline tasks, timeline, and responsibilities .
 
 * Task list & responsibilities 
 
-Tasks :                                       Assugned TO   :              Estimated Time :
+Tasks :                                       Assigned TO   :              Estimated Time :
 
 Inspect notification-service logs             Thandazo                      05/05  13:00 - 14:30 
 Test API using curl/postman                   Nhlanhla                      05/05  13:00 - 14:30
