@@ -27,15 +27,15 @@ Final team review of findings                 All                           06/0
   - Verify all services start correctly with 'docker-compose up'
   - Test API endpoint with invalid HTTP methods (e.g., GET on POST routes)
   - Document expected vs. actual responses for API testing
-  - Clean up and rebuild container to verify stability 
+  - Clean up and rebuild container to verify stability. 
 
 
 
-   * Goals for Execution 
-     - Ensure 'notification-service' runs correctly
-     - verify that '/status' and '/send- notification' endpoints responds as expected.
-     - Identify and document any bugs or missing features.
-     - submit clean and clear document with testing evidence.
+* Goals for Execution 
+   - Ensure 'notification-service' runs correctly
+   - verify that '/status' and '/send- notification' endpoints responds as expected.
+   - Identify and document any bugs or missing features.
+   - submit clean and clear document with testing evidence.
 
 
 * Tools to be Used
