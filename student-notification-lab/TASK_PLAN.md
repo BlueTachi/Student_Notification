@@ -30,12 +30,12 @@ Final team review of findings                 All                           06/0
   - Clean up and rebuild container to verify stability 
 
 
- 
- * Goals for Execution 
-  - Ensure 'notification-service' runs correctly
-  - verify that '/status' and '/send- notification' endpoints responds as expected.
-  - Identify and document any bugs or missing features.
-  - submit clean and clear document with testing evidence.
+
+   * Goals for Execution 
+     - Ensure 'notification-service' runs correctly
+     - verify that '/status' and '/send- notification' endpoints responds as expected.
+     - Identify and document any bugs or missing features.
+     - submit clean and clear document with testing evidence.
 
 
 * Tools to be Used
